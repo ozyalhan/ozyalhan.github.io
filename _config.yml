@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title:  Ozgur Yasar Alhan Personal Website | ozyalhan 2021
+author: Ozgur Yasar Alhan
+email: ozguryasaralhan@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ozgur Yasar Alhan is an code enthusiast with lazy personality
+  he writes scripts for automation for make more laziness 
+  Bsc. Electronics and Communitation Engineering
+  Main interests are microvawe, rf , 4g, 5g , automation, testing. 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,9 +13,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
+  name: Ozgur Y. Alhan
+  tagline: Code enthusiast
+  date_format: "%-d %-b, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
@@ -26,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    twitter: ozyalhan
+    github:  ozyalhan
+    linkedIn: in/ozyalhan
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
@@ -39,7 +40,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: ozguryasaralhan@gmail.com
 
     # Mastodon instances
     # mastodon:
